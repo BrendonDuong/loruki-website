@@ -76,7 +76,7 @@
 
 .bg-light,
 .btn-light {
-    background-color: var(--gray);
+    background-color: var(--light-color);
     color: var(--dark);
 }
 
@@ -193,6 +193,8 @@
 
 .my-4 {
     margin: 3rem 0;
+    /* display: flex;
+    justify-content: space-evenly; */
 }
 
 .my-5 {
